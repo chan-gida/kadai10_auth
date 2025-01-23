@@ -6,7 +6,7 @@
 - 卒業制作（ユーザーの発電量データ蓄積）を意識してユーザー登録内容などを授業から変更してみました。
 
 ## ③DEMO
-- https://tatsuyamaeta.github.io/github_pages/
+- https://silverbat3.sakura.ne.jp/php04/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
